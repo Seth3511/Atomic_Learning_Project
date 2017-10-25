@@ -1,4 +1,33 @@
 Application,Series Title,Movie Title
+Canvas ,Canvas Student,Adding materials to your ePortfolio
+Canvas ,Canvas Student,ePortfolio setup
+Canvas ,Canvas Student,Create a new ePortfolio
+Canvas ,Canvas Student,ePortfolio overview
+Canvas ,Canvas Student,To-do list
+Canvas ,Canvas Student,Create an event
+Canvas ,Canvas Student,Calendar overview
+Canvas ,Canvas Student,Join a conference
+Canvas ,Canvas Student,Find people
+Canvas ,Canvas Student,Search and filter in discussions
+Canvas ,Canvas Student,Start a new discussion
+Canvas ,Canvas Student,Read and reply to posts
+Canvas ,Canvas Student,Access the discussion board
+Canvas ,Canvas Student,Delete or archive a message
+Canvas ,Canvas Student,Check your grades
+Canvas ,Canvas Student,Group work
+Canvas ,Canvas Student,Taking a quiz
+Canvas ,Canvas Student,Submitting assignments
+Canvas ,Canvas Student,Reading assignments
+Canvas ,Canvas Student,Accessing content
+Canvas ,Canvas Student,Send a message
+Canvas ,Canvas Student,Your inbox overview
+Canvas ,Canvas Student,Syllabus
+Canvas ,Canvas Student,Announcements
+Canvas ,Canvas Student,Access your course
+Canvas ,Canvas Student,Adding outside services
+Canvas ,Canvas Student,Notification preferences
+Canvas ,Canvas Student,Edit profile and settings
+Canvas ,Canvas Student,What you'll learn in this series
 Excel 2016,Excel 2016,Printing spreadsheets
 Excel 2016,Excel 2016,Export data as tab delimited text
 Excel 2016,Excel 2016,Export spreadsheets to PDF
@@ -49,33 +78,6 @@ Excel 2016,Excel 2016,Interface overview
 Excel 2016,Excel 2016,Creating and saving an Excel file
 Excel 2016,Excel 2016,Excel spreadsheet structure overview
 Excel 2016,Excel 2016,What you'll learn in this training
-Word 2016,Word 2016 - Table of Contents and References,Add new sources using the source manager
-Word 2016,Word 2016 - Table of Contents and References,Delete a bibliography
-Word 2016,Word 2016 - Table of Contents and References,Create a bibliography
-Word 2016,Word 2016 - Table of Contents and References,Delete a source
-Word 2016,Word 2016 - Table of Contents and References,Edit a citation
-Word 2016,Word 2016 - Table of Contents and References,Edit a source
-Word 2016,Word 2016 - Table of Contents and References,Convert a placeholder to a source
-Word 2016,Word 2016 - Table of Contents and References,Source manager
-Word 2016,Word 2016 - Table of Contents and References,Use citation placeholders in a document
-Word 2016,Word 2016 - Table of Contents and References,Use existing citations
-Word 2016,Word 2016 - Table of Contents and References,Add new sources from scratch
-Word 2016,Word 2016 - Table of Contents and References,Set the bibliography style
-Word 2016,Word 2016 - Table of Contents and References,Delete a footnote or endnote
-Word 2016,Word 2016 - Table of Contents and References,Convert a footnote to an endnote
-Word 2016,Word 2016 - Table of Contents and References,Display and edit endnotes and footnotes
-Word 2016,Word 2016 - Table of Contents and References,Change footnote options
-Word 2016,Word 2016 - Table of Contents and References,Insert an endnote
-Word 2016,Word 2016 - Table of Contents and References,Insert a footnote
-Word 2016,Word 2016 - Table of Contents and References,Add text command
-Word 2016,Word 2016 - Table of Contents and References,Remove a table of contents
-Word 2016,Word 2016 - Table of Contents and References,Format table of contents styles
-Word 2016,Word 2016 - Table of Contents and References,Use hyperlinks in a table of contents
-Word 2016,Word 2016 - Table of Contents and References,Update the table of contents
-Word 2016,Word 2016 - Table of Contents and References,Use custom heading styles to create a table of contents
-Word 2016,Word 2016 - Table of Contents and References,View the table of contents options
-Word 2016,Word 2016 - Table of Contents and References,Create an automatic table of contents
-Word 2016,Word 2016 - Table of Contents and References,What you'll learn in this training
 Excel 2016,Excel 2016 - Charting,Creating tree maps and sunburst maps
 Excel 2016,Excel 2016 - Charting,Creating box and whisker plots
 Excel 2016,Excel 2016 - Charting,Creating a waterfall chart
@@ -130,6 +132,42 @@ Excel 2016,Excel 2016 - Charting,Select chart data in nonadjacent cells
 Excel 2016,Excel 2016 - Charting,Select chart data in adjacent cells
 Excel 2016,Excel 2016 - Charting,Identify elements of a chart
 Excel 2016,Excel 2016 - Charting,What you'll learn
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Evaluate a formula
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Check for errors
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Identify dependent cells
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Identify precedent cells
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Display formulas
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Break links to external references
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Open a workbook with external reference formulas
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate command with multiple workbooks
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate command with multiple sheets
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Absolute links vs. relative links
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate worksheet values within a function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate values from multiple workbooks
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Create a link formula to another workbook
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Create a link formula within the same workbook
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Text to columns
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,CONCATENATE (CONCAT) function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,HLOOKUP function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,VLOOKUP function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,SUMIF function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,COUNTIF function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,NESTED function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,IF function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,OR function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,AND function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,ROUND function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,TRANSPOSE function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,MATCH function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,DAYS function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,DATE and NOW functions
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,COUNT function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,AVERAGE function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,SUM function
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,MAXIFS and MINIFS
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,IFS
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,TEXTJOIN
+Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,What you'll learn
 Excel 2016,Excel 2016 - Pivot Tables,Format a slicer
 Excel 2016,Excel 2016 - Pivot Tables,Create a slicer
 Excel 2016,Excel 2016 - Pivot Tables,View the parts of a slicer
@@ -171,42 +209,33 @@ Excel 2016,Excel 2016 - Pivot Tables,Creating a Pivot Table
 Excel 2016,Excel 2016 - Pivot Tables,Selecting appropriate data for a Pivot Table
 Excel 2016,Excel 2016 - Pivot Tables,What is a Pivot Table?
 Excel 2016,Excel 2016 - Pivot Tables,What you'll learn in this training
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Evaluate a formula
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Check for errors
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Identify dependent cells
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Identify precedent cells
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Display formulas
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Break links to external references
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Open a workbook with external reference formulas
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate command with multiple workbooks
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate command with multiple sheets
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Absolute links vs. relative links
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate worksheet values within a function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Consolidate values from multiple workbooks
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Create a link formula to another workbook
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Create a link formula within the same workbook
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,Text to columns
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,CONCATENATE (CONCAT) function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,HLOOKUP function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,VLOOKUP function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,SUMIF function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,COUNTIF function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,NESTED function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,IF function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,OR function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,AND function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,ROUND function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,TRANSPOSE function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,MATCH function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,DAYS function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,DATE and NOW functions
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,COUNT function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,AVERAGE function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,SUM function
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,MAXIFS and MINIFS
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,IFS
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,TEXTJOIN
-Excel 2016,Excel 2016 - Frequently Used Formulas and Functions,What you'll learn
+Word 2016,Word 2016 - Table of Contents and References,Add new sources using the source manager
+Word 2016,Word 2016 - Table of Contents and References,Delete a bibliography
+Word 2016,Word 2016 - Table of Contents and References,Create a bibliography
+Word 2016,Word 2016 - Table of Contents and References,Delete a source
+Word 2016,Word 2016 - Table of Contents and References,Edit a citation
+Word 2016,Word 2016 - Table of Contents and References,Edit a source
+Word 2016,Word 2016 - Table of Contents and References,Convert a placeholder to a source
+Word 2016,Word 2016 - Table of Contents and References,Source manager
+Word 2016,Word 2016 - Table of Contents and References,Use citation placeholders in a document
+Word 2016,Word 2016 - Table of Contents and References,Use existing citations
+Word 2016,Word 2016 - Table of Contents and References,Add new sources from scratch
+Word 2016,Word 2016 - Table of Contents and References,Set the bibliography style
+Word 2016,Word 2016 - Table of Contents and References,Delete a footnote or endnote
+Word 2016,Word 2016 - Table of Contents and References,Convert a footnote to an endnote
+Word 2016,Word 2016 - Table of Contents and References,Display and edit endnotes and footnotes
+Word 2016,Word 2016 - Table of Contents and References,Change footnote options
+Word 2016,Word 2016 - Table of Contents and References,Insert an endnote
+Word 2016,Word 2016 - Table of Contents and References,Insert a footnote
+Word 2016,Word 2016 - Table of Contents and References,Add text command
+Word 2016,Word 2016 - Table of Contents and References,Remove a table of contents
+Word 2016,Word 2016 - Table of Contents and References,Format table of contents styles
+Word 2016,Word 2016 - Table of Contents and References,Use hyperlinks in a table of contents
+Word 2016,Word 2016 - Table of Contents and References,Update the table of contents
+Word 2016,Word 2016 - Table of Contents and References,Use custom heading styles to create a table of contents
+Word 2016,Word 2016 - Table of Contents and References,View the table of contents options
+Word 2016,Word 2016 - Table of Contents and References,Create an automatic table of contents
+Word 2016,Word 2016 - Table of Contents and References,What you'll learn in this training
 Word 2016,Word 2016 - Tables and Graphics,Changing the layout of your SmartArt
 Word 2016,Word 2016 - Tables and Graphics,Changing the colors in your SmartArt
 Word 2016,Word 2016 - Tables and Graphics,Applying a SmartArt style
@@ -300,32 +329,3 @@ Word 2016,Word 2016 (PC),Ways to collaborate
 Word 2016,Word 2016 (PC),SharePoint?? and OneDrive
 Word 2016,Word 2016 (PC),Keyboard shortcuts
 Word 2016,Word 2016 (PC),New Ribbon option
-Canvas ,Canvas Student,Adding materials to your ePortfolio
-Canvas ,Canvas Student,ePortfolio setup
-Canvas ,Canvas Student,Create a new ePortfolio
-Canvas ,Canvas Student,ePortfolio overview
-Canvas ,Canvas Student,To-do list
-Canvas ,Canvas Student,Create an event
-Canvas ,Canvas Student,Calendar overview
-Canvas ,Canvas Student,Join a conference
-Canvas ,Canvas Student,Find people
-Canvas ,Canvas Student,Search and filter in discussions
-Canvas ,Canvas Student,Start a new discussion
-Canvas ,Canvas Student,Read and reply to posts
-Canvas ,Canvas Student,Access the discussion board
-Canvas ,Canvas Student,Delete or archive a message
-Canvas ,Canvas Student,Check your grades
-Canvas ,Canvas Student,Group work
-Canvas ,Canvas Student,Taking a quiz
-Canvas ,Canvas Student,Submitting assignments
-Canvas ,Canvas Student,Reading assignments
-Canvas ,Canvas Student,Accessing content
-Canvas ,Canvas Student,Send a message
-Canvas ,Canvas Student,Your inbox overview
-Canvas ,Canvas Student,Syllabus
-Canvas ,Canvas Student,Announcements
-Canvas ,Canvas Student,Access your course
-Canvas ,Canvas Student,Adding outside services
-Canvas ,Canvas Student,Notification preferences
-Canvas ,Canvas Student,Edit profile and settings
-Canvas ,Canvas Student,What you'll learn in this series

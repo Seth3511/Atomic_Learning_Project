@@ -1,50 +1,64 @@
 import csv
 
-videos = []
+videos = {}
 with open('Canvas Word and Excel Lists.csv') as csvfile:
     csvReader = csv.reader(csvfile, delimiter=',')
     for row in csvReader:
-        videos.append(row)
-del videos[0]
+        if row[0] not in videos.keys():
+            videos[row[0]]={}
+        if row[1] not in videos[row[0]].keys():
+            videos[row[0]][row[1]]=[]
+        videos[row[0]][row[1]].append(row[2])
+del videos['Application']
 
 students = []
 with open('Student List.csv') as csvfile:
     csvReader = csv.reader(csvfile, delimiter=',')
     for row in csvReader:
-        students.append(row)
+        students.append(row[0])
 del students[0]
 
-reports = []
-with open('AL Report 8.28.17 - 10.16.17.csv') as csvfile:
+reports = {}
+with open('output1.csv') as csvfile:
     csvReader = csv.reader(csvfile, delimiter=',')
     for row in csvReader:
-        reports.append(row)
-del reports[0]
+        if row[4] not in reports.keys():
+            reports[row[4]]={}
+        if row[0] not in reports[row[4]].keys():
+            reports[row[4]][row[0]]={}
+        if row[1] not in reports[row[4]][row[0]].keys():
+            reports[row[4]][row[0]][row[1]]=[]
+        reports[row[4]][row[0]][row[1]].append(row[2])
+del reports['application']
 
-counts = {}
-vidCount = 0
-prev = videos[0]
-for video in videos:
-    if video[1]!=prev[1]:
-        counts[prev[1]]=vidCount
-        vidCount=1
-        prev = video
-    elif video == videos[-1]:
-        vidCount+=1
-        counts[video[1]]=vidCount
-    else:
-        prev = video
-        vidCount+=1
-print(counts)
-#stuCount = []
-#vidCount =0
-#for student in students:
- #  for report in reports:
-  #      if report[0]!=name:
+for application in videos.keys():
+    with open("output/"+application+'_output.csv', 'w', newline='') as out:
+        title=[]
+        title.append("")
+        for key in videos[application].keys():
+            title.append(key)
+        title.append("Total")
+        csv_out = csv.writer(out)
+        csv_out.writerow(title)
 
-   #     elif report==reports[-1]:
+        for student in students:
+            if student in reports[application].keys():
+                row=[]
+                row.append(student)
+                total=0
+                for series in sorted(videos[application].keys()):
+                    if series in reports[application][student].keys():
+                        row.append(len(reports[application][student][series]))
+                        total+=len(reports[application][student][series])
+                    else:
+                        row.append(0)
+                row.append(total)
+                csv_out.writerow(row)
 
-    #    else:
-
-#ans = []
-#for stu in stuCount:
+        row=["Videos In Series: "]
+        total=0
+        for series in sorted(videos[application].keys()):
+            row.append(len(videos[application][series]))
+            total+=len(videos[application][series])
+        row.append(total)
+        csv_out.writerow(row)

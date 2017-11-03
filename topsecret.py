@@ -1,6 +1,7 @@
 from datetime import datetime
 import time as t
 import csv
+import os
 
 reports = []
 with open('AL Report 8.28.17 - 10.16.17.csv') as csvfile:
@@ -15,7 +16,7 @@ with open('AL Report 8.28.17 - 10.16.17.csv') as csvfile:
                 newName=row[0]+" "+row[1]
                 if(newName==name):
                     newTime=t.mktime(datetime.strptime(row[4]+","+row[5],"%Y-%m-%d,%I:%M:%S %p").timetuple())
-                    
+
                     videoLength =row[9]
                     minutes=videoLength[0]+videoLength[1]+""
                     minutes=int(minutes)
@@ -52,8 +53,10 @@ for i in range(len(reports)-2,-1,-1):
 
                 del reports[j]
 
+if not os.path.exists('output/'):
+    os.makedirs('output')
 
-with open('output1.csv','w',newline='') as out:
+with open('output/output1.csv','w',newline='') as out:
     csv_out = csv.writer(out)
     csv_out.writerow(['name','series title','video title','grade','application'])
     for report in reports:
@@ -79,7 +82,7 @@ with open('Student List.csv') as csvfile:
 del students[0]
 
 reports = {}
-with open('output1.csv') as csvfile:
+with open('output/output1.csv') as csvfile:
     csvReader = csv.reader(csvfile, delimiter=',')
     for row in csvReader:
         if row[4] not in reports.keys():
